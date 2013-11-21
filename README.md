@@ -1,4 +1,4 @@
-sorted_sets
+MakerSquare_07-sorted_sets
 ===========
 
 This is an assignment from the 7th day of MakerSquare 10 week course on web development.
